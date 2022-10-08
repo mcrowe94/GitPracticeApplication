@@ -8,6 +8,9 @@ namespace GitPractice
         {
             //Initialization
             //First Commit
+            //First Practice (Branch) Commit
+            //Second Commit
+
         }
     }
 }
