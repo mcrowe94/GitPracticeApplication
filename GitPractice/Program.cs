@@ -6,7 +6,8 @@ namespace GitPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Initialization
+            //First Commit
         }
     }
 }
